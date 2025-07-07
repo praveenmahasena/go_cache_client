@@ -10,11 +10,11 @@ This app communicates to server via TCP
  - In memory database
  - Concurrent
  - No race conditions
- - Has string,set,hash,list datastructures to store data
+ - Has string, set, hash, list data structures to store data
 
 ## Tech Stack
- - (Golang)[]
- - (Git)[]optional
+ - [Golang](https://go.dev/dl)
+ - [Git](https://git-scm.com/downloads)optional
 
 
 ## Client side Setup
@@ -56,6 +56,4 @@ This app communicates to server via TCP
  3. ### set
  4. ### hash
 
-
 ## TODO
-
